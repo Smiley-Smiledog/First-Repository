@@ -19,6 +19,7 @@
     NSLog(@"Coooooooollllll");
     NSLog(@"SupaCool");
     NSLog(@"NewComment");
+    NSLog(@"Changy");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
